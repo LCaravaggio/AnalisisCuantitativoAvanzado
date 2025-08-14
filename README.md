@@ -17,8 +17,8 @@ Material de apoyo para algunos temas presentados en la materia Análisis Cuantit
 # Slides / Clases
 
 - [Clase 1 - Intro y Teoría Regresión Lineal](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Clase_1_Regresi%C3%B3n_lineal.ipynb)
-- [Clase 2 - Teoría Regresión Logística]()
-- [Clase 3 - Práctica Regresión Lineal](https://docs.google.com/presentation/d/1qg-POCaZs8epSwMyfCr7crkH80G5vb8_-8AXUgbiMDI)
+- [Clase 2 - Práctica Regresión Lineal](https://docs.google.com/presentation/d/1qg-POCaZs8epSwMyfCr7crkH80G5vb8_-8AXUgbiMDI)
+- [Clase 3 - Teoría Regresión Logística]()
 - [Clase 4 - Práctica Regresión Logística](https://docs.google.com/presentation/d/1S605bTm5cTk7g-t83Bs_fm5DXRv4wJSsc35papEJ6TA)
 - [Clase 5 - Intervalos de Confianza]()
 - [Clase 6 - Test de Hipótesis]()
