@@ -53,6 +53,11 @@ src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/14
 src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1328040175i/174276.jpg" width="86" height="133.3">
 </a>
 
+<a href="https://www.goodreads.com/book/show/23809284-causality">
+<img border="0" title="Causality" 
+src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1420608663i/23809284.jpg" width="86" height="133.3">
+</a>
+
 
 ## Análisis de Políticas Públicas (más en general)
 <p>
