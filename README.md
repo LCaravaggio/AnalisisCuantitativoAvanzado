@@ -28,7 +28,7 @@ Material de apoyo para algunos temas presentados en la materia Análisis Cuantit
 
 # Bibliografía
 
-Se puede acceder a la bibliografía en el siguiente [link](https://drive.google.com/drive/folders/1Fpw-1wyQT9w7Blkm9eFqSIv0UN8c4v6H?usp=sharing).
+Se puede acceder a la [bibliografía](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/biblio.md) en el siguiente [link](https://drive.google.com/drive/folders/1Fpw-1wyQT9w7Blkm9eFqSIv0UN8c4v6H?usp=sharing).
 
 # Consignas
 - [TPs y TP Final](https://docs.google.com/document/d/1dcfOP_bQWkrA4di7msvPtTjsK8YKgyG81XdomRkIPzA/edit)
