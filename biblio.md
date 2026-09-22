@@ -41,7 +41,7 @@ src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/13
 src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1631542931i/58988909.jpg" width="86" height="133.3">
 </a>
 
-## Causalidad
+## Causalidad (out of the scope of this course)
 
 <a href="https://www.goodreads.com/book/show/23986891-mastering-metrics">
 <img border="0" title="Mastering 'Metrics" 
@@ -56,6 +56,11 @@ src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/13
 <a href="https://www.goodreads.com/book/show/23809284-causality">
 <img border="0" title="Causality" 
 src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1420608663i/23809284.jpg" width="86" height="133.3">
+</a>
+
+<a href="https://www.goodreads.com/book/show/59843825">
+<img border="0" title="The Effect" 
+src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1639799780i/59843825.jpg" width="86" height="133.3">
 </a>
 
 
